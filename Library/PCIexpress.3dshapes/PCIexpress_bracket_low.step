@@ -5,7 +5,7 @@ HEADER;
 
 FILE_DESCRIPTION(('HOOPS Exchange Step'),'2;1');
 
-FILE_NAME('c:\\tempstorage\\2749037528679612\\STD-PC-PCIe-BRACKET-LOW-SPEC.step',
+FILE_NAME('PCIexpress_bracket_low.step',
 '2019-07-17T22:04:16+00:00',
 ('SYSTEM'),
 ('Unknown organisation'),

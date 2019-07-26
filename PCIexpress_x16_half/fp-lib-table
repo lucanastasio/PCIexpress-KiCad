@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PCIexpress)(type KiCad)(uri ${KIPRJMOD}/../Library/PCIexpress.pretty)(options "")(descr ""))
+)

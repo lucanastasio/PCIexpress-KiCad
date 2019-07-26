@@ -1,11 +1,11 @@
 EESchema Schematic File Version 4
-LIBS:PCIexpress_x16_full-cache
+LIBS:PCIexpress_x16_half-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 2 34
-Title "PCIexpress_x16_full"
+Title "PCIexpress_x16_half"
 Date ""
 Rev ""
 Comp "Author: Luca Anastasio"
