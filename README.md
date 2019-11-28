@@ -2,6 +2,9 @@
 PCI Express™ libraries and templates for KiCad
 Made using guidelines from PCI Express™ Card Electromechanical Specification Rev. 1.1
 
+![](example.jpg)
+
+### Contents
 **Templates:**
 * x1 cards: full size, half length, low profile
 * x4 cards: full size, half length, low profile
